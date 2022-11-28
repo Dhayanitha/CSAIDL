@@ -32,7 +32,7 @@ Step 7: Save and run the application.
 ### Developed by: H.Dhayanitha
 ### Registeration Number : 212220230010
 
-<br><br><br>## AIDL Server 
+## AIDL Server 
 
 ```
 
@@ -80,7 +80,7 @@ public class AIDLColorService extends Service {
 
 ```
 
-<br>## AndroidManifest.xml
+## AndroidManifest.xml
 
 ```
 
